@@ -7,3 +7,5 @@
 rabbitmq:3.13.7-management
 valkey/valkey:7.2.10
 rabbitmq:3.13.7-management-alpine
+portainer/portainer-ce
+rustfs/rustfs:latest
